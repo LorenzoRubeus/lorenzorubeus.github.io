@@ -159,7 +159,7 @@ document.querySelectorAll('button').forEach(function(button) {
                 "Why not? I'm not even Indian :(", 'Your answer makes me sad...', 'You know... you should really consider be my valentine', 
                 "b- b- but... don't make me come there to kidnap you :)", 'You must say yes', 'I thought...',
                 'Are you really sure sure?', "Are you sure you haven't misclicked...?", 'This hurts me quite a lot',
-                'I cannot believe this', 'I did not expect this', "I guess I'll have to kidnap you then, fine"
+                'I cannot believe this', 'I did not expect this, Nardeen', "I guess I'll have to kidnap you then, fine."
             ]
             
             if(noNumber == messages.length) {
