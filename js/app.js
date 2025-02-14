@@ -19,7 +19,7 @@ document.querySelectorAll('button').forEach(function(button) {
                 document.querySelector('h1').innerText = messages[yesNumber]
                 Swal.fire({
                     title: "Aww cutie 💕",
-                    text: "Can't wait to offer you dinnerrr!",
+                    text: "Can't wait to offer you dinner or anything else!",
                     icon: "success"
                 });
             } else {
