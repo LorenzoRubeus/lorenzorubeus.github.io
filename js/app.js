@@ -11,15 +11,15 @@ document.querySelectorAll('button').forEach(function(button) {
             noNumber = 0
             document.querySelector('#particles-js').style.display = "block"
             const messages = [
-                'متشكر ♥', 'Yay, this makes me so happy!', 'OMG! She said yes ♥'
+                'متشكر ♥', 'OMG! She said yes ♥'
                 
             ]
             
             if(yesNumber == 0) {
                 document.querySelector('h1').innerText = messages[yesNumber]
                 Swal.fire({
-                    title: "💕💕",
-                    text: "Can't wait to offer you dinner!",
+                    title: "Aww cutie 💕",
+                    text: "Can't wait to offer you dinnerrr!",
                     icon: "success"
                 });
             } else {
